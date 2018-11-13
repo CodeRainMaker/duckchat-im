@@ -6,10 +6,21 @@
 <p align="center"><code>支持Web端、支持iOS、Android端社交浏览器</code></p>
 <p align="center">😀 😁 😂 🤣 😃 😄 😅 😆 😉 😊 😋 😎 😍 😘 😗 </p>
 
-|内容|地址|
-|--|--|
-|服务端下载 | https://github.com/duckchat/gaga |
-|Android客户端|Android下载：https://duckchat.akaxin.com|
-|iOS客户端|iOS下载：[AppStore官方下载 ](https://itunes.apple.com/cn/app/duckchat/id1434153512?l=en&mt=8)|
-|官方QQ群| 请服务端程序repo前往 https://github.com/duckchat/gaga 查看 |
-|官方网站|[DuckChat官方网站 https://duckchat.akaxin.com](https://duckchat.akaxin.com)|
+
+### 服务端下载
+
+> 前往Github: https://github.com/duckchat/gaga
+
+### 客户端下载
+
+> Android：https://duckchat.akaxin.com
+>
+> iOS下载：[AppStore官方下载 ](https://itunes.apple.com/cn/app/duckchat/id1434153512?l=en&mt=8)
+>
+> PC：Chrome、Safari、360极速等浏览器均可。或者使用 https://github.com/electron/electron 自行将网站封装为一个端。
+
+### 联系方式
+
+> 官方QQ群：前往 https://github.com/duckchat/gaga 查看最新。
+>
+> 官方网站：[DuckChat官方网站 https://duckchat.akaxin.com](https://duckchat.akaxin.com)
