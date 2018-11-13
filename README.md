@@ -1,4 +1,4 @@
-# [DuckChat](https://duckchat.akaxin.com)
+# [DuckChat 汇总页](https://duckchat.akaxin.com)
 <br />
 <p align="center"><b>一个安全的私有聊天系统解决方案</b> </p>
 <p align="center"><code>私有部署 | 安全可靠 | 随意定制</code></p>
